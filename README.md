@@ -3,6 +3,10 @@ Online Repository for the article: "Assessing the Radical Scavenging Potential _
 
 <img width="550" height="300" alt="Screenshot 2025-12-04 at 16 36 02" src="https://github.com/user-attachments/assets/5babcfd0-6b2f-4f7b-8707-53c6b0d3274e" />
 
+<div align="center">
+  <img src="Supporting Information/GAbstract.png" alt="image" width="1014" height="256">
+</div>
+
 ## Script Overview
 _rdkit-calc.py_: This script takes a CSV dataset of molecules, identifies all medium–radical combinations, and for each pair computes a series of RDKit descriptors for both the base SMILES and the radical SMILES. It assembles these descriptors into a new, expanded table as a CSV file.
 
