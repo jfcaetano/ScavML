@@ -4,7 +4,7 @@ Online Repository for the article: "Assessing the Radical Scavenging Potential _
 <img width="550" height="300" alt="Screenshot 2025-12-04 at 16 36 02" src="https://github.com/user-attachments/assets/5babcfd0-6b2f-4f7b-8707-53c6b0d3274e" />
 
 <div align="center">
-  <img src="Supporting Information/scaveML-SI.png" alt="image" width="1014" height="256">
+  <img src="Supporting Information/scaveML-SI.png" alt="image" width="550" height="300">
 </div>
 
 ## Script Overview
