@@ -1,6 +1,8 @@
 # ScavML
 Online Repository for the article: "Assessing the Radical Scavenging Potential _in Silico_: a Machine Learning and Quantum Mechanics Combined Approach"
 
+<img width="3772" height="2234" alt="scavML" src="https://github.com/user-attachments/assets/9712ffd7-4960-4c3b-9a25-06c76ecb81d5" />
+
 ## Script Overview
 _rdkit-calc.py_: This script takes a CSV dataset of molecules, identifies all medium–radical combinations, and for each pair computes a series of RDKit descriptors for both the base SMILES and the radical SMILES. It assembles these descriptors into a new, expanded table as a CSV file.
 
